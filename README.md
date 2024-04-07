@@ -3,5 +3,5 @@ Elyria é um RPG baseado em turnos criado em C como tarefa final do curso de int
 # Criadores: 
 * Eduardo Marinho de Paiva ```Backend``` ```Design``` ```Roteiro```
 * João Victor Amaral de Souza ```Design``` ```Roteiro```
-* Luiz Henrique Alves Ferreira ```Design```
+* Luiz Henrique Alves Ferreira ```Design``` ```Roteiro```
   
